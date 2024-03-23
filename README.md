@@ -2,6 +2,10 @@
 
 <img src="https://res.cloudinary.com/drpr6euyz/image/upload/v1711202743/ecommerce-react/stardew_icon_pfcm3k.png" alt="drawing" width="200"/>
 
+#### Deployed on this link:
+
+https://react-project-cedeno-garcia.vercel.app/
+
 ### Componentes used in the project:
 
 - React
