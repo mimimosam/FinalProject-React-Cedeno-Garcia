@@ -1,8 +1,20 @@
-# React + Vite
+# Mock Farm online store
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<img src="https://res.cloudinary.com/drpr6euyz/image/upload/v1711202743/ecommerce-react/stardew_icon_pfcm3k.png" alt="drawing" width="200"/>
 
-Currently, two official plugins are available:
+### Componentes used in the project:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- React
+- React Router Dom
+- Contexts
+- Firebase
+- Chakra UI
+
+### The following environment variables are needed:
+
+- VITE_APIKEY=
+- VITE_AUTH_DOMAIN=
+- VITE_PROJECT_ID=
+- VITE_STORAGE=
+- VITE_SENDER_ID=
+- VITE_APP_ID=
